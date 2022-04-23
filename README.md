@@ -2,6 +2,8 @@
 
 This is Demo Project From Shwe Taung Group
 
+I use only http and get library for this project. http for api request and get for state management.
+
 ## Getting Started
 
 To Run this Application 
